@@ -21,8 +21,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report a vulnerebility, please chat to us immediately and tell us the problem. We will give you a full refund if you have downloaded one of our products. BUT WE CAN NOT HELP YOU IF YOU HAVE DOWNLOADED GOOGLE MUSIC MANAGER. Just tell us the problem if you have spotted one.
